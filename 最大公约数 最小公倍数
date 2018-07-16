@@ -1,0 +1,2 @@
+#辗转相除法求最大公约数
+def max_Divisor_zz(num1, num2) :
